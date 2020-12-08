@@ -60,6 +60,10 @@
 					color: white;
 					text-align: center;
 				}
+				
+				[data-color-mode=dark] .container {
+					color: black;
+				}
 
 				h1 {
 					font-size: 50px;
